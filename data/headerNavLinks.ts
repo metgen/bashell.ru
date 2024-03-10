@@ -3,7 +3,7 @@ const headerNavLinks = [
   { href: '/tags', title: 'Тэги' },
   { href: '/projects', title: 'Проекты' },
   { href: '/about', title: 'О блоге' },
-  { href: '/resume', title: 'Резюме' },
+  // { href: '/resume', title: 'Резюме' },
 ];
 
 export default headerNavLinks;
